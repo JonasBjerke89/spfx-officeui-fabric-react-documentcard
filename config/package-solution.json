@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-officeui-fabric-react-documentcard-client-side-solution",
+    "id": "fcba8147-e4f1-40db-a609-657cafb9f7bb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-officeui-fabric-react-documentcard.spapp"
+  }
+}
